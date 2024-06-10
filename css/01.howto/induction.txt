@@ -1,0 +1,13 @@
+.module{
+    padding: 1.25rem;
+}
+
+selector{
+    (declaration)
+    property: value;
+}
+
+選擇器{
+    (宣告)
+    屬性: 值;
+}
